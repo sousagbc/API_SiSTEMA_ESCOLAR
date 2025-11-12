@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ideias de sites : 
 
 
@@ -220,6 +220,7 @@ Integração com serviço de e-mail (envio de certificado)
 
 Sistema de login com JWT
 
+```
 ✨ Ideias Bônus
 Tema	Descrição
 🩸 Banco de Sangue	Controle de doadores, tipos sanguíneos e campanhas
@@ -228,6 +229,6 @@ Tema	Descrição
 🐾 Pet Shop	CRUD de pets, donos e agendamentos de banho/tosa
 🍽️ Restaurante	Cardápio, pedidos e reservas de mesas
 🎟️ Sistema de Eventos	Cadastro de eventos, ingressos e participantes
-=======
+```
 
 >>>>>>> d6f0d1ef516bd9e51b4977cd967f5acaaa89aa57
